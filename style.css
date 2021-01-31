@@ -162,7 +162,7 @@ hr{
 
 /*footer section end*/
 
-@media (max-width: 1028px) {
+@media screen and (max-width: 7688px) {
 
 /*welcome section start*/
   .line {
@@ -197,8 +197,8 @@ hr{
 
   }
   .nav-links.open {
-    clip-path: circle(800px at 90% -20%);
-    -webkit-clip-path: circle(800px at 90% -20%);
+    clip-path: circle(1000px at 90% -20%);
+    -webkit-clip-path: circle(1000px at 90% -20%);
     pointer-events: all;
   }
 
