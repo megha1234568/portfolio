@@ -162,7 +162,7 @@ hr{
 
 /*footer section end*/
 
-@media screen and (max-width: 768px) {
+@media (max-width: 1028px) {
 
 /*welcome section start*/
   .line {
