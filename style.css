@@ -68,7 +68,7 @@ hr{
   width: 10rem;
   height: 1px;
   color: #949194;
-  margin-left:39rem;
+  margin-left:37rem;
   margin-top: 1rem;
 }
 .container{
@@ -213,17 +213,18 @@ hr{
     height:1600px;
   }
   hr{
-    margin-left: 10rem;
+    margin-left: 15rem;
     margin-top: 1rem;
   }
   .container{
     display: grid;
     height: 1500px;
-    width: 800px;
+    width: 900px;
     margin: 2px 0;
   }
   .column{
     height: 450px;
+    width:800px;
     margin-left: 3rem;
     margin-top: 5px;
   }
